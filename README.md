@@ -10,7 +10,8 @@ UI framework and no runtime dependency.
 
 ## Getting started
 
-Requires Node.js 18 or newer (`.nvmrc` pins 22).
+Use Node.js 22.23.4 (`.nvmrc`). Other supported Node lines must satisfy the security minimums in
+`package.json`.
 
 ```bash
 npm install
